@@ -40,12 +40,7 @@ This project demonstrates fundamental concepts in digital electronics, including
 ---
 
 ## Project Image  
-📌 *Add your real circuit image here:*  
+![IMG_20250423_232046](https://github.com/user-attachments/assets/69d95c73-12ab-4632-aab4-ed9b1f11d93d)
 
-![8-bit Adder Prototype](images/adder_prototype.jpg)  
 
----
-
-## Author  
-**P Hari Ram Nikil**  
-Date: *02/05/2025*  
+---  
