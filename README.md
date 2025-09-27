@@ -20,14 +20,13 @@ This project demonstrates fundamental concepts in digital electronics, including
 - **DIP Switches** – User input for binary numbers A and B.  
 - **Resistors** – Current limiting for LEDs.  
 - **LEDs** – Display of binary output sum.  
-- **PCB/Perfboard** – For mounting and wiring the circuit.  
+- **Perfboard** – For mounting and wiring the circuit.  
 
 ---
 
 ## Circuit Overview
 - The two 74LS283 ICs are connected in cascade.  
 - The carry-out from the lower 4-bit adder is connected to the carry-in of the higher 4-bit adder.  
-- DIP switches provide binary inputs A[7:0] and B[7:0].  
 - LEDs represent the resulting sum bits.  
 
 ---
