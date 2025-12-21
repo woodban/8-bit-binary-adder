@@ -26,7 +26,7 @@ This project demonstrates fundamental concepts in digital electronics, including
 
 ## Circuit Overview
 - The two 74LS283 ICs are connected in cascade.  
-- The carry-out from the lower 4-bit adder is connected to the carry-in of the higher 4-bit adder.  
+- The carry out from the lower 4-bit adder is connected to the carry in of the higher 4-bit adder.  
 - LEDs represent the resulting sum bits.  
 
 ---
